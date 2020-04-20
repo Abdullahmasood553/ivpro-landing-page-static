@@ -143,7 +143,7 @@ li {
   color: #ffffff;
   line-height: 27px;
   padding: 8px 36px;
-  background: #19565a;
+  background: #62318f;
   border: 1px solid #19565a;
   display: inline-block;
   text-transform: uppercase;
@@ -374,11 +374,11 @@ li {
   border-radius: 50%;
   text-align: center;
   line-height: 53px;
-  border: 1px solid #5ec5cc;
+  border: 1px solid #461770;
 }
 
 .header-uper .contact-info .item .icon-box i:before {
-  color: #5ec5cc;
+  color: #62318f;
   font-size: 22px;
 }
 
@@ -460,7 +460,7 @@ li {
 
 .navbar {
   margin-bottom: 0;
-  background: #2a4244;
+  background: #62318f;
   border: none;
   border-radius: 0;
 }
@@ -512,7 +512,7 @@ li {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 20px;
   display: block;
-  background: #48bdc5;
+  background: rgb(98, 49, 143);
   color: #fff;
   padding: 20px 30px;
   transition: all .3s ease;
@@ -537,7 +537,7 @@ li {
 }
 
 .accordion-section .accordion-holder .panel-default .panel-heading h4 a.collapsed:hover {
-  color: #48bdc5;
+  color: #461770;
 }
 
 .accordion-section .accordion-holder .panel-default .panel-body {
@@ -2904,7 +2904,7 @@ li {
   position: relative;
   background-size: cover;
   z-index: 1;
-  background: #132646;
+  background: #62318f;
 }
 
 .footer-main .footer-top {
@@ -2962,7 +2962,7 @@ li {
   display: block;
   height: 30px;
   width: 30px;
-  color: #48bdc5;
+  color: #461770;
   background: #fff;
   text-align: center;
   border-radius: 50%;
@@ -3085,7 +3085,7 @@ li {
 
 .footer-bottom {
   padding: 24px 0px;
-  background: #0d1a2f;
+  background: #461770;
 }
 
 .footer-bottom .copyright-text {
