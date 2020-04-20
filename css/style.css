@@ -1840,7 +1840,7 @@ li {
 #video-play {
   position: relative;
   min-height: 320px;
-  background: url('../images/background/media.jpg');
+  background: url('../images/background/media.jpeg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -300px;
